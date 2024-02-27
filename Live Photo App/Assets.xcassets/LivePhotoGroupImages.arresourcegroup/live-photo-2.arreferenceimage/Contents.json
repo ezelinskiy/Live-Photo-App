@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "live-photo-2.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.11375722543352601
+  }
+}
